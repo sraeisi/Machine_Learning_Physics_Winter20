@@ -118,7 +118,7 @@ Basics of Machine Learning
 
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Introduction            | [Introduction to ML](Lec1/MLP_1_Introduction)  |       |
+| Introduction            | [Introduction to ML](Lec1/MLP_1_Introduction.pdf)  |       |
 |Regression|pdf|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/MLP_lec1_Basics_Regression.ipynb) |
 | Clustering  |pdf | code |
 
