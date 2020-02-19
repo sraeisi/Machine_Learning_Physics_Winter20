@@ -19,18 +19,13 @@ Reading Materials
 - Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
 
 
-Table of contents 
+Course Materials  
 ==================
 
-The course material is posted here and you can use either [Google
-Colab](http://colab.research.google.com/) or [Mybinder](http://mybinder.org/) to
-work with these Jupyter notebooks.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sraeisi/MachineLearning_Physics/master)
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/) 
+The course material is posted here. If you come across a mistake or problem, please let me know. 
 
 
-Basics of Machine Learning
+## Basics of Machine Learning
 
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
