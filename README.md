@@ -12,7 +12,7 @@ information, see the course page at
 
 Reading Materials
 =============
-- Mehta, Pankaj, et al. "A high-bias, low-variance introduction to machine learning for physicists." Physics Reports (2019).
+- Mehta, Pankaj, et al. "A high-bias, low-variance introduction to machine learning for physicists." [Physics Reports (2019)](https://www.sciencedirect.com/science/article/pii/S0370157319300766).
 
 - Nielsen, Michael A. Neural networks and deep learning. Vol. 25. San Francisco, CA, USA:: Determination press, 2015. ([Available online](http://neuralnetworksanddeeplearning.com) )
 
