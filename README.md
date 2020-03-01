@@ -30,9 +30,9 @@ The course material is posted here. If you come across a mistake or problem, ple
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Introduction            | [Introduction to ML](Lec1/MLP_1_Introduction.pdf)  |       |
-|Regression|pdf|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/MLP_lec1_Basics_Regression.ipynb) |
-| Clustering  |pdf | code |
-
+|dipping a toe in the water|pdf|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/MLP_lec1_Basics_Regression.ipynb) |
+| Clustering  |[Clustering](Lec1/MLP_2_Clustering.pdf) | 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Clustering.ipynb) |
 
 
 Requirements:
