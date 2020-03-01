@@ -8,6 +8,31 @@ information, see the course page at
 
 <http://sharif.edu/~sraeisi/ML>
 
+
+
+Reading Materials
+=============
+- Mehta, Pankaj, et al. "A high-bias, low-variance introduction to machine learning for physicists." [Physics Reports (2019)](https://www.sciencedirect.com/science/article/pii/S0370157319300766).
+
+- Nielsen, Michael A. Neural networks and deep learning. Vol. 25. San Francisco, CA, USA:: Determination press, 2015. ([Available online](http://neuralnetworksanddeeplearning.com) )
+
+- Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
+
+
+Course Materials  
+==================
+
+The course material is posted here. If you come across a mistake or problem, please let me know. 
+
+
+## Basics of Machine Learning
+
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Introduction: Dipping a toe in the water            | [Introduction to ML](Lec1/MLP_1_Introduction.pdf)  |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/MLP_lec1_Basics_Regression.ipynb) |
+| Clustering  |  [Clustering](Lec1/MLP_2_Clustering.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Clustering.ipynb) |
+
+
 Requirements:
 =============
 
@@ -93,34 +118,6 @@ Assignments
 | Assigment  | Deadline and Submission link | Solutions |
 |------------|------------------------------|-----------|
 
-
-Reading Materials
-=============
-- Mehta, Pankaj, et al. "A high-bias, low-variance introduction to machine learning for physicists." Physics Reports (2019).
-
-- Nielsen, Michael A. Neural networks and deep learning. Vol. 25. San Francisco, CA, USA:: Determination press, 2015. ([Available online](http://neuralnetworksanddeeplearning.com) )
-
-- Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
-
-
-Table of contents 
-==================
-
-The course material is posted here and you can use either [Google
-Colab](http://colab.research.google.com/) or [Mybinder](http://mybinder.org/) to
-work with these Jupyter notebooks.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sraeisi/MachineLearning_Physics/master)
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/MachineLearning_Physics/) 
-
-
-Basics of Machine Learning
-
-| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
-|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Introduction            | [Introduction to ML](Lec1/MLP_1_Introduction.pdf)  |       |
-|Regression|pdf|   [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/MLP_lec1_Basics_Regression.ipynb) |
-| Clustering  |pdf | code |
 
  
 
