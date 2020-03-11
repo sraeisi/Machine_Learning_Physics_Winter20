@@ -34,6 +34,13 @@ The course material is posted here. If you come across a mistake or problem, ple
 | Regression and Classification  |  [Regression and Classification](Lec1/MLP_3_Regression_and_Classification.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Reg&Clf.ipynb) |
 
 
+Project
+=======
+|Milestone  | Due date|
+|-----------|---------|
+|[Data](Project/Milestone1_data.pdf)| March 20th|
+
+
 Requirements:
 =============
 
