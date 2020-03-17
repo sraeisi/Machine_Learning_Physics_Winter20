@@ -18,7 +18,7 @@ Reading Materials
 
 - Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
 
----
+
 Course Materials  
 ==================
 
@@ -37,14 +37,14 @@ The course material is posted here. If you come across a mistake or problem, ple
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Data: the basics | [Data](Chapt2/MLP_Chpt2_Data.pdf) |  |
 
----
+
 Project
 =======
 |Milestone  | Due date|
 |-----------|---------|
 |[Data](Project/Milestone1_data.pdf)| March 20th|
 
----
+
 Requirements:
 =============
 
@@ -63,9 +63,6 @@ Requirements:
 
 -   Basic understanding of machine learning
 
-
-
----
 Marking Scheme
 ==============
 
@@ -81,8 +78,6 @@ This is a tentative plan and we may change it as we move on.
 
 These add up to 110% which include the bonus as well.
 
-
----
 Course Projects
 ===============
 
@@ -129,9 +124,16 @@ __Some notes:__
 
 
 
+Assignments
+==================
+
+| Assigment  | Deadline and Submission link | Solutions |
+|------------|------------------------------|-----------|
+
+
  
 
----
+
 Cheat sheets and guides
 =======================
 
@@ -148,7 +150,6 @@ See the files in the CheatSheet folder.
 | [Matplotlib](CheatSheets/Matplotlib_CheatSheet.pdf) <br> [Seaborn](CheatSheets/Seaborn_CheatSheet.pdf)                    | These are two of the most common python library for visualization.                                                                                                 |
 | [Scikit-Learn](CheatSheets/Scikit-Learn_CheatSheet.pdf)                          | It’s a python library that provides a nice and fairly efficient implementation of most the machine learning techniques and ideas.                                  |
 | [Keras](CheatSheets/Keras_CheatSheet.pdf)                                 | It is python library that provides a high-level and easy-to-use interface for Tensorflow and some other deep learning libraries.                                   |
-
 
 
 
