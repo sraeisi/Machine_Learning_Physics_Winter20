@@ -27,20 +27,20 @@ Course Materials
 The course material is posted here. If you come across a mistake or problem, please let me know. 
 
 
-## Basics of Machine Learning
+## Chapter 1: Basics of Machine Learning
 
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Introduction: Dipping a toe in the water            | [Introduction to ML](Lec1/MLP_1_Introduction.pdf)  |     [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/MLP_lec1_Basics_Regression.ipynb) |
 | Clustering  |  [Clustering](Lec1/MLP_2_Clustering.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Clustering.ipynb) |
 | Regression and Classification  |  [Regression and Classification](Lec1/MLP_3_Regression_and_Classification.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Lec1/Reg&Clf.ipynb) |
-## Data
+## Chapter 2: Data
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Data: the basics | [Data](Chapt2/MLP_Chpt2_Data.pdf) |  |
 
 
-## Model Selection and Evaluation
+## Chapter 3: Model Selection and Evaluation
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Model Evaluation | [Metrics](Chapt3/MLP_Chpt3_Lec1_Model_Evaluation.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Evaluation.ipynb) |
