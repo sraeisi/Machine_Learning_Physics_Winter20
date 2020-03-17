@@ -39,6 +39,11 @@ The course material is posted here. If you come across a mistake or problem, ple
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Data: the basics | [Data](Chapt2/MLP_Chpt2_Data.pdf) |  |
 
+
+## Model Selection and Evaluation
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Model Evaluation | [Metrics](Chapt3/MLP_Chpt3_Lec1_Model_Evaluation.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Evaluation.ipynb) |
 ---
 Project
 =======
