@@ -18,7 +18,7 @@ Reading Materials
 
 - Chollet, François,  ["Deep Learning with Python." (2018)](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf).
 
----
+
 Course Materials  
 ==================
 
