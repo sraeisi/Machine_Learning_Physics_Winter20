@@ -47,9 +47,9 @@ The course material is posted here. If you come across a mistake or problem, ple
 ---
 Project
 =======
-|Milestone  | Due date|
-|-----------|---------|
-|[Data](Project/Milestone1_data.pdf)| March 20th|
+|Milestone  | Due date| Submission Link |
+|-----------|---------|-----------------|
+|[Data](Project/Milestone1_data.pdf)| March 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
 
 ---
 Requirements:
