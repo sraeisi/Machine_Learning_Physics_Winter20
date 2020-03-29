@@ -44,7 +44,7 @@ The course material is posted here. If you come across a mistake or problem, ple
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Model Evaluation | [Metrics](Chapt3/MLP_Chpt3_Lec1_Model_Evaluation.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Evaluation.ipynb) |
-| Model Selection | [Statisticl Learning](Chapt3/MLP_Chpt3_Lec1_Model_Selection.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Selection.ipynb) |
+| Model Selection | [Statisticl Learning](Chapt3/MLP_Chpt3_Lec2_Model_Selection.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Selection.ipynb) |
 ---
 Project
 =======
