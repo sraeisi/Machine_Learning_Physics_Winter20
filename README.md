@@ -45,6 +45,15 @@ The course material is posted here. If you come across a mistake or problem, ple
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Model Evaluation | [Metrics](Chpt3/MLP_Chpt3_Lec1_Model_Evaluation.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Evaluation.ipynb) |
 | Model Selection | [Statisticl Learning](Chpt3/MLP_Chpt3_Lec2_Model_Selection.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt3/Model_Selection.ipynb) |
+
+
+
+## Chapter 4: Neural Networks
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Introduction | [Intro](Chpt4/MLP_Chpt4_Lec1_NN_Feedforward.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt4/NN_Intro.ipynb) |
+
+
 ---
 Project
 =======
