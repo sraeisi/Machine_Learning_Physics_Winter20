@@ -54,6 +54,9 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Introduction | [Intro](Chpt4/MLP_Chpt4_Lec1_NN_Feedforward.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt4/NN_Intro.ipynb) |
+| Feedforward | [Feedforward](Chpt4/MLP_Chpt4_Lec1_NN_Feedforward.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt4/NN_FeedForward.ipynb) |
+| Training: Back-propagation | [Back-propagation](Chpt4/MLP_Chpt4_Lec1_NN_BackPropagation.pdf) |  |
+
 
 
 ---
@@ -62,6 +65,7 @@ Project
 |Milestone  | Due date| Submission Link |
 |-----------|---------|-----------------|
 |[Data](Project/Milestone1_data.pdf)| March 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
+|[Data](Project/Milestone2_TraditionalTechniques.pdf)| April 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
 
 ---
 Requirements:
