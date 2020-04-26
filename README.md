@@ -55,7 +55,8 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Introduction | [Intro](Chpt4/MLP_Chpt4_Lec1_NN_Feedforward.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt4/NN_Intro.ipynb) |
 | Feedforward | [Feedforward](Chpt4/MLP_Chpt4_Lec1_NN_Feedforward.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt4/NN_FeedForward.ipynb) |
-| Training: Back-propagation | [Back-propagation](Chpt4/MLP_Chpt4_Lec1_NN_BackPropagation.pdf) | [![Quizz](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt4/Quizz.ipynb) |
+| Training: Back-propagation | [Back-propagation](Chpt4/MLP_Chpt4_Lec1_NN_BackPropagation.pdf) | [![Quizz](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt4/Quizz.ipynb) |
+| Libraries |  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt4/NN_libraries.ipynb) |
 
 
 
