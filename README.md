@@ -64,8 +64,8 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 ## Chapter 5: Convolutional Neural Networks
 | Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Convolution Operation | [Intro](Chpt5/MLP_Chpt5_Lec1_CNN_Convolution.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt5/MLP_Chpt5_Lec1_CNN_Convolution.ipynb) |
-| Siple ConvNet | [Details of a ConvNet](Chpt5/MLP_Chpt5_Lec2_CNN_ConvNet.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master//Chpt5/MLP_Chpt5_Lec2_CNN_ConvNet.ipynb) |
+| Convolution Operation | [Intro](Chpt5/MLP_Chpt5_Lec1_CNN_Convolution.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt5/MLP_Chpt5_Lec1_CNN_Convolution.ipynb) |
+| Siple ConvNet | [Details of a ConvNet](Chpt5/MLP_Chpt5_Lec2_CNN_ConvNet.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt5/MLP_Chpt5_Lec2_CNN_ConvNet.ipynb) |
 
 
 ---
