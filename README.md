@@ -69,6 +69,10 @@ Also, the videos of some(most) of the lectures are posted [here](https://www.apa
 | Example |  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt5/MLP_Chpt5_Lec3_CNN_Example_Galaxy_ZooII.ipynb) |
 | Transfer Learning and Augmentation |  | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt5/MLP_Chpt5_Lec4_CNN_TransferLearning.ipynb) |
 
+## Chapter 6: Recurrent Neural Networks
+| Topic                                 |  Lecture notes                                                                                                                                                                                              | Notebook(s) |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| Recurrent Neural Networks | [Intro](Chpt6/MLP_Chpt6_Lec1_RecurrentNeuralNetworks.pdf) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sraeisi/Machine_Learning_Physics_Winter20/blob/master/Chpt6/MLP_Chpt6_Lec1_RNN.ipynb) |
 
 ---
 Project
