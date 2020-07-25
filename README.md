@@ -82,6 +82,34 @@ Project
 |[Data](Project/Milestone1_data.pdf)| March 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
 |[Data](Project/Milestone2_TraditionalTechniques.pdf)| April 20th|[Submit here.](https://forms.gle/RcQNpG3npfK1cTWV9)|
 
+
+## Project Presentation
+For the next parts of your project, you are expected to submit a term paper and have an oral presentation. 
+
+The term papers are due three weeks from now (25st of Mordad). 
+
+The term paper is supposed to be a quality manuscript that can potentially be posted on arxiv. 
+
+This means that you should follow all the professional guidelines and codes of conduct, including proper citation of the relevant literature. Please see 
+
+(https://www.aps.org/policy/statements/guidlinesethics.cfm)
+
+for further information. 
+
+Please use the revtex4-2 with two columns for the latex document style. You can find samples on the internet or ask me. 
+
+Please put your term-paper with all the required files (figs, bib, ...) on your gitlab repo in a folder. 
+Please do not change the file after the deadline. 
+
+
+For the oral presentation, you are expected to give a 10 min talk followed by 2 min Q&A. 
+
+In the 10 min, you are expected to explain the problem that you are trying to solve, the way you represented the problem and your solution and finally your results. 
+This should be at a level that your classmates can easily follow. 
+
+Please note that your written and oral presentations are a significant part of your project. 
+
+
 ---
 Requirements:
 =============
