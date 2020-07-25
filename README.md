@@ -110,6 +110,21 @@ This should be at a level that your classmates can easily follow.
 Please note that your written and oral presentations are a significant part of your project. 
 
 
+
+---
+Marking Scheme
+==============
+
+This is a tentative plan and we may change it as we move on.
+
+-   Course Project: 60-80%
+
+-   Assignments: 5-10%
+
+-   Class Participation 5-10%
+
+-   Final exam: 20-30% 
+
 ---
 Requirements:
 =============
@@ -128,22 +143,6 @@ Requirements:
 -   Basic understanding of quantum mechanics and statistics.
 
 -   Basic understanding of machine learning
-
-
----
-Marking Scheme
-==============
-
-This is a tentative plan and we may change it as we move on.
-
--   Course Project: 60-80%
-
--   Assignments: 5-10%
-
--   Class Participation 5-10%
-
--   Final exam: 20-30% 
-
 
 <!--
 
