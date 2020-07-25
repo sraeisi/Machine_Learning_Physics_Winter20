@@ -136,13 +136,16 @@ Marking Scheme
 
 This is a tentative plan and we may change it as we move on.
 
--   Course Project: 40%
+-   Course Project: 60-80%
 
--   Assignments: 30%
+-   Assignments: 5-10%
 
--   In-class exercises 10%
+-   Class Participation 5-10%
 
--   Final exam (set for Thursday, June 20th, 9AM): 30% 
+-   Final exam: 20-30% 
+
+
+<!--
 
 These add up to 110% which include the bonus as well.
 
@@ -192,8 +195,6 @@ __Some notes:__
 - Your codes should include enough comments and information that can be easily followed.
 - It is essential that all group members contribute (make commits) to their repositories, this is the only way I can make sure that everyone participated in their project. 
 
-
-<!--
 ---
 Assignments
 ==================
